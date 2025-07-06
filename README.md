@@ -1,4 +1,4 @@
-# My Project Title
+# MiniTron
 Starting out with a new project in C.
 
 ## Features
